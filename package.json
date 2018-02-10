@@ -1,0 +1,24 @@
+{
+  "name": "loggerserver",
+  "version": "0.0.1",
+  "description": "Server for interacting with data stored using logger plugin",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushruth/loggerserver.git"
+  },
+  "keywords": [
+    "logger",
+    "log",
+    "server"
+  ],
+  "author": "Sushruth Sastry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sushruth/loggerserver/issues"
+  },
+  "homepage": "https://github.com/sushruth/loggerserver#readme"
+}
